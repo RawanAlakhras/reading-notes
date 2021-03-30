@@ -12,6 +12,6 @@ it is the text editor that comes with your computer,the text editors that come o
 
 ## The Command Line!
 A command line, or terminal, is a text based interface to the system. You are able to enter commands by typing them on the keyboard and feedback will be given to you similarly as text.
-pwd  >>which stands for Print Working Directory.
-ls   >>to know what is there in Current Location.
+pwd  >>which stands for Print Working Directory.<br>
+ls   >>to know what is there in Current Location.<br>
 cd   >>change directory In order to move around in the system
