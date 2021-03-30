@@ -1,6 +1,7 @@
 # ❤Welcome❤
 ## My name is *Rawan Alakhras* 
-I am **21** years old ✌. <br>
+I am **21** years old ✌. <br>this is me😊<br>
+![me](me.JPG)<br>
 my background is at **software engineering❤** as I graduated from Albalqa applied university in last month with GPA **3.21** .<br>
 My laptop's os  is widows 10 ,version  19041.804.<br>
 I am a frontend developer and I ❤ design very much.<br>
