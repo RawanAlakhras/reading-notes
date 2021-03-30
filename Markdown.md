@@ -11,8 +11,8 @@ Mostly, Markdown is just regular text with a few non-alphabetic characters throw
 * make [link to Google!](http://google.com).
 * make Headers using # .
 * make list Ordered & unordered.
-* we can insert Images also such like this ![image](Markdown.png)<br>
-  and a lot of really helpful thing❤.
+* we can insert Images also such like this ![image](markdown.png)
+  <br>and a lot of really helpful thing❤.
 
   # how we can push from git to GitHub !
   It is really easy way by terminal😉<br>
