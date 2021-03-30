@@ -9,11 +9,11 @@ Here is my GitHub URL PLS **FOLLOW** me:<br>
 [my GitHub URL linke](https://github.com/RawanAlakhras)
 <br><br>
 | # | **table of content** |
-| ------------- | ------------- |
-| 1 | [About me](README.md) |
+| ------------- | -------------          |
+| 1 | [About me](README.md)              |
 | 2 | [Text editor VS IDE ](class-01.md) |
-| 3 | [Growth Mindset](class-02.md) |
-| 4 | [Markdown](Markdown.md) |
+| 3 | [Growth Mindset](class-02.md)      |
+| 4 | [Markdown](Markdown.md)            |
 
 
 
