@@ -15,9 +15,9 @@ Here is my GitHub URL PLS **FOLLOW** me:<br>
 | 2 | [Text editor VS IDE ](class-01.md) |
 | 3 | [Growth Mindset](class-02.md)      |
 | 4 | [Markdown](Markdown.md)            |
-| 5 | [Remotes](Remotes.md)            |
-
-   
+| 5 | [Remotes](Remotes.md) 
+| 6 | [HTML5](HTML&CSS.md)
+           
 
 
 
