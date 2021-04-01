@@ -5,7 +5,7 @@ computer can follow to achieve a goal.
 computer can follow to achieve a goal. 
 * today we learned a lot of thing such:
 ## if statement
-```
+```javascript
 if(1 >2 ){
 
 }
