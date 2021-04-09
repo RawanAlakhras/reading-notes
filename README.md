@@ -8,8 +8,10 @@ I am a frontend developer and I ❤ design very much.<br>
 Here is my GitHub URL PLS **FOLLOW** me:<br>
 [my GitHub URL linke](https://github.com/RawanAlakhras)
 <br><br>
+>This page about what   I have learned and read in Code 102 and 201 .
+# Code 102 Reading Notes
 
-| # | **table of content**               |
+| # | **Code 102 Reading Notes**               |
 | --| ---------------------------------- |
 | 1 | [About me](README.md)              |
 | 2 | [Text editor VS IDE ](class-01.md) |
@@ -20,7 +22,24 @@ Here is my GitHub URL PLS **FOLLOW** me:<br>
 | 7 | [javascript](javascript.md)        |
 | 8 | [Operators and Loops](OperatorsandLoops.md)|
 | 9 | [color in css](color.md)|
-           
+# Code 201 Reading Notes
+| # | **Code 201 Reading Notes**         |
+| --| ---------------------------------- |
+| 1 |                                    |
+| 2 |                                    |
+| 3 |                                    |
+| 4 |                                    |
+| 5 |                                    |
+| 6 |                                    |
+| 7 |                                    |
+| 8 |                                    |
+| 9 |                                    |
+| 10 |                                    |
+| 11 |                                    |
+| 12 |                                    |
+| 13 |                                    |
+| 14 |                                    |
+| 15 |                                    |
 
 
 
