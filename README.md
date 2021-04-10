@@ -25,7 +25,7 @@ Here is my GitHub URL PLS **FOLLOW** me:<br>
 # Code 201 Reading Notes
 | # | **Code 201 Reading Notes**         |
 | --| ---------------------------------- |
-| 1 | Introductory HTML                  |
+| 1 | [Introductory HTML](class-o1.md)     |
 | 2 |                                    |
 | 3 |                                    |
 | 4 |                                    |
