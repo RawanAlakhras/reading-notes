@@ -14,8 +14,8 @@ Here is my GitHub URL PLS **FOLLOW** me:<br>
 | # | **Code 102 Reading Notes**               |
 | --| ---------------------------------- |
 | 1 | [About me](README.md)              |
-| 2 | [Text editor VS IDE ](class-01.md) |
-| 3 | [Growth Mindset](class-02.md)      |
+| 2 | [Text editor VS IDE ](class-1.md) |
+| 3 | [Growth Mindset](class-2.md)      |
 | 4 | [Markdown](Markdown.md)            |
 | 5 | [Remotes](Remotes.md)              |
 | 6 | [HTML5](HTML&css.md)               |
@@ -25,7 +25,7 @@ Here is my GitHub URL PLS **FOLLOW** me:<br>
 # Code 201 Reading Notes
 | # | **Code 201 Reading Notes**         |
 | --| ---------------------------------- |
-| 1 |                                    |
+| 1 | Introductory HTML                  |
 | 2 |                                    |
 | 3 |                                    |
 | 4 |                                    |
