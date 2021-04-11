@@ -6,22 +6,15 @@ Firefox , Chrome , Opera and safari
 * Devices : Accesing web pages can be done through out a wide varity of devices like desktops , laptops and mobile phones etc. 
 * Screen readers : special software that can read the content to the user and specially used by people who have visual impairments.
 ## How Websites Are Created ?
-* What you see
-When you are looking at a 
-website, it is most likely that 
-your browser will be receiving 
-HTML and CSS from the web 
-server that hosts the site.
-* Small websites are often written 
-just using HTML and CSS.
-* Larger websites  often 
-make use of more complex 
-technologies on the web server
-* The most recent versions of HTML is 5 and for CSS is 3 . Websites are mainly built by HTML ,CSS But in the new era new technologies formed up.
+* What you see?<br>
+When you are looking at a website, it is most likely that your browser will be receiving HTML and CSS from the web server that hosts the site.
+* Small websites are often written just using HTML and CSS.
+* Larger websites  often make use of more complex technologies on the web server.
+* The most recent versions of HTML is 5 and for CSS is 3 .
 ## How the Web Works
-1. First you connect to a ISP which Internet Service Provider and you type the domain name so your browser can establish a connection.
+1. First you connect to Internet Service Provider (ISP) and you type the domain name so your browser can establish a connection.
 
-2. Then you connect to a DNS which is Domain Name System and it's roll to give your browser information like ip and connection type to that very specific website and also sends a special code to authorize the access .
+2. Then you connect to a Domain Name System (DNS) and it's roll to give your browser information like ip and connection type to that very specific website and also sends a special code to authorize the access .
 3. The unique number returns to your Computer and at this moment you have been authorized to access that website .
 # Structure of a web page :
 * Web pages are a digitalized version of the usual documents that we are facing every day How is that ?
