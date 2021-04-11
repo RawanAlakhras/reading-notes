@@ -3,7 +3,7 @@
 
 ### HTML Heading:
 * HTML has six "levels" of headings:
-```
+```HTML
 <h1></h1>
 <h2></h2>
 <h3></h3>
@@ -14,20 +14,20 @@
 
 ```
 ### HTML Paragraphs
-* we can create a paragraph using ```<p>``` tage.
-* We can create a bold text by enclosing words in the tags ```<b> and </b>```
-* We can create a italic text by enclosing words in the tags ```<i> and </i>```
-* We can create a superscript text by enclosing words in the tags ```<sup> and </sup>```
-* We can create a subscript text by enclosing words in the tags ```<sub> and </sub>```
-* to add a line break inside the middle of a paragraph you can use the line break tag ```<br />```.
-* create a horizontal rule between sections using the ```<hr />``` tag.
-* The ```<strong>```element indicates that its content has strong importance and by default the browser make it bold.
-* The ```<em>``` element indicates emphasis that subtly changes and by default the browser make it italic.
+* we can create a paragraph using `<p>` tage.
+* We can create a bold text by enclosing words in the tags `<b> and </b>`
+* We can create a italic text by enclosing words in the tags `<i> and </i>`
+* We can create a superscript text by enclosing words in the tags `<sup> and </sup>`
+* We can create a subscript text by enclosing words in the tags `<sub> and </sub>`
+* to add a line break inside the middle of a paragraph you can use the line break tag `<br />`.
+* create a horizontal rule between sections using the `<hr />` tag.
+* The `<strong>`element indicates that its content has strong importance and by default the browser make it bold.
+* The `<em>` element indicates emphasis that subtly changes and by default the browser make it italic.
 * we can create Quotations by 2 tags:
-   * ```<blockquote>```  for longer quotes.
-   * ``` <q> ``` used for shorter quotes.
-* we can create Abbreviations & Acronyms by using ```<abbr>``` tag.
-*  ```<cite>``` tag is referred to citation which it referencing a piece of work such as a book,film or research paper, the ```<cite>``` element can be used to indicate where the citation is from.
+   * `<blockquote>`  for longer quotes.
+   * ` <q> ` used for shorter quotes.
+* we can create Abbreviations & Acronyms by using `<abbr>` tag.
+*  `<cite>` tag is referred to citation which it referencing a piece of work such as a book,film or research paper, the `<cite>` element can be used to indicate where the citation is from.
 *  
 ## Semantic Markup
 * Semantic markup: which some text elements that are not intended to affect the structure of your web pages, but they do add extra information to the pages.
@@ -36,8 +36,8 @@
 * Inline elements flow within the text and do not start on a new line.
 * CSS allows you to create rules that control the way that each individual box (and the contents of that box) is presented.
 * there is 2 way to Associates css Style rules with HTML elements:
-  * Using External CSS by ```<link>```.
-  * Using Internal CSS by ```<style>```.
+  * Using External CSS by `<link>`.
+  * Using Internal CSS by `<style>`.
 * CSS Selectors:There are many different types of CSS selector that allow you to target rules to specific elements in an HTML document such as :
   * Universal Selector
   * Type Selector
@@ -75,9 +75,9 @@
   checks if the number on the left is less than the number on the right .
 * <= : less than or equal to <br>
   checks if the number on the left is less than or equal to the number on the right .
-* ```>``` :greter than <br>
+* `>` :greter than <br>
   checks if the nuber on the left is greater than the number on the right.
-* ```>=```  : greater than or equal to <br>
+* `>=`  : greater than or equal to <br>
 checks if the number on the left is greater than or equal to the number on the right .
 ## Logical Operators
 * && :Logical and <br>
