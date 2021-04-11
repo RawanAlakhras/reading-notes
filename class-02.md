@@ -3,14 +3,14 @@
 
 ### HTML Heading:
 * HTML has six "levels" of headings:
-``` html
-    <h1></h1>
-    <h2></h2>
-    <h3></h3>
-    <h4></h4>
-    <h5></h5>
-    <h6></h6>
-    //The contents of an <h1> element is the largest, and the contents of an <h6> element is the smallest. 
+```
+<h1></h1>
+<h2></h2>
+<h3></h3>
+<h4></h4>
+<h5></h5>
+<h6></h6>
+//The contents of an <h1> element is the largest, and the contents of an <h6> element is the smallest. 
 
 ```
 ### HTML Paragraphs
@@ -87,7 +87,7 @@ checks if the number on the left is greater than or equal to the number on the r
 * ! :Logical not <br>
 * take a single boolean value and inverts it . 
 # Loop 
-> There are three types of loop: for, while, and 
+ There are three types of loop: for, while, and 
 do ... while. Each repeats a set of statements.
 ### FOR 
 if you need to run code a specific number of times .
