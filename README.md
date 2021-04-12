@@ -11,8 +11,8 @@ Here is my GitHub URL PLS **FOLLOW** me:<br>
 >This page about what   I have learned and read in Code 102 and 201 .
 # Code 102 Reading Notes
 
-| # | Code 102 Reading Notes             |
-| --| ---------------------------------- |
+| #  | Code 102 Reading Notes             |
+| ---| ---------------------------------- |
 | 1 | [About me](README.md)              |
 | 2 | [Text editor VS IDE ](class-1.md)  |
 | 3 | [Growth Mindset](class-2.md)       |
@@ -23,8 +23,8 @@ Here is my GitHub URL PLS **FOLLOW** me:<br>
 | 8 | [Operators and Loops](OperatorsandLoops.md)|
 | 9 | [color in css](color.md)|
 # Code 201 Reading Notes
-| # | Code 201 Reading Notes             |
-| --| ---------------------------------- |
+| #  | Code 201 Reading Notes             |
+| ---| ---------------------------------- |
 | 1 | [Introductory HTML](class-01.md)   |
 | 2 | [Basics of HTML, CSS & JS](class-02.md)    |
 | 3 |                                    |

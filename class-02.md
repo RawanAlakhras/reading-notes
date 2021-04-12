@@ -4,13 +4,13 @@
 ### HTML Heading:
 * HTML has six "levels" of headings:
 ```HTML
-<h1></h1>
-<h2></h2>
-<h3></h3>
-<h4></h4>
-<h5></h5>
-<h6></h6>
-<!-- The contents of an <h1> element is the largest, and the contents of an <h6> element is the smallest. -->
+  <h1></h1>
+  <h2></h2>
+  <h3></h3>
+  <h4></h4>
+  <h5></h5>
+  <h6></h6>
+  <!-- The contents of an <h1> element is the largest, and the contents of an <h6> element is the smallest. -->
 ```
 
 
