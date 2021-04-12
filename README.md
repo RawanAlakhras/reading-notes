@@ -11,7 +11,7 @@ Here is my GitHub URL PLS **FOLLOW** me:<br>
 >This page about what   I have learned and read in Code 102 and 201 .
 # Code 102 Reading Notes
 
-| #  | Code 102 Reading Notes             |
+| rawan  | Code 102 Reading Notes             |
 | ---| ---------------------------------- |
 | 1 | [About me](README.md)              |
 | 2 | [Text editor VS IDE ](class-1.md)  |
