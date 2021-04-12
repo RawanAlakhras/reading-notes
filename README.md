@@ -11,10 +11,10 @@ Here is my GitHub URL PLS **FOLLOW** me:<br>
 >This page about what   I have learned and read in Code 102 and 201 .
 # Code 102 Reading Notes
 
-| # | Code 102 Reading Notes             |<br>
-| --| ---------------------------------  |<br>
-| 1 | [About me](README.md)              |<br>
-| 2 | [Text editor VS IDE ](class-1.md)  |<br>
+| # | Code 102 Reading Notes             |
+| --| ---------------------------------  |
+| 1 | [About me](README.md)              |
+| 2 | [Text editor VS IDE ](class-1.md)  |
 | 3 | [Growth Mindset](class-2.md)       |
 | 4 | [Markdown](Markdown.md)            |
 | 5 | [Remotes](Remotes.md)              |
@@ -41,9 +41,4 @@ Here is my GitHub URL PLS **FOLLOW** me:<br>
 | 14 |                                    |
 | 15 |                                    |
 
-# test table
-| Syntax      | Description |
-| ----------- | ----------- |
-| Header      | Title       |
-| Paragraph   | Text        |
 
