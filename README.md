@@ -21,7 +21,9 @@ This page about what   I have learned and read in Code 102 and 201 .
 | 7 | [javascript](javascript.md)        |
 | 8 | [Operators and Loops](OperatorsandLoops.md)|
 | 9 | [color in css](color.md)|
+
 # Code 201 Reading Notes
+
 | #  | Code 201 Reading Notes             |
 | ---| ---------------------------------- |
 | 1 | [Introductory HTML](class-01.md)   |
