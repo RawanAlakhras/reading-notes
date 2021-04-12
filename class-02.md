@@ -10,9 +10,10 @@
 <h4></h4>
 <h5></h5>
 <h6></h6>
-//The contents of an <h1> element is the largest, and the contents of an <h6> element is the smallest. 
-
+<!-- The contents of an <h1> element is the largest, and the contents of an <h6> element is the smallest. -->
 ```
+
+
 ### HTML Paragraphs
 * we can create a paragraph using `<p>` tage.
 * We can create a bold text by enclosing words in the tags `<b> and </b>`
@@ -57,7 +58,7 @@
   * String
   * number
   * boolean 
-* ARRAYS:y is a special type of variable. It doesn't just store one value; it stores a list of values. 
+* ARRAYS:is a special type of variable. It doesn't just store one value; it stores a list of values. 
 * EXPRESSIONS: which it evaluates into (results in) a single value, there is 2 type of expressions:
     * EXPRESSIONS THAT JUST ASSIGN A VALUE TO A VARIABLE .
     * EXPRESSIONS THAT USE TWO OR MORE VALUES TO RETURN A SINGLE VALUE .
