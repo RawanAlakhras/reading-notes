@@ -6,15 +6,15 @@ my background is at **software engineering❤** as I graduated from Albalqa appl
 My laptop's os  is widows 10 ,version  19041.804.<br>
 I am a frontend developer and I ❤ design very much.<br>
 Here is my GitHub URL PLS **FOLLOW** me:<br>
-[my GitHub URL linke](https://github.com/RawanAlakhras)
-<br><br>
+[my GitHub URL linke](https://github.com/RawanAlakhras)<br>
+
 >This page about what   I have learned and read in Code 102 and 201 .
 # Code 102 Reading Notes
 
-| rawan  | Code 102 Reading Notes             |
-| ---| ---------------------------------- |
-| 1 | [About me](README.md)              |
-| 2 | [Text editor VS IDE ](class-1.md)  |
+| # | Code 102 Reading Notes             |<br>
+| --| ---------------------------------  |<br>
+| 1 | [About me](README.md)              |<br>
+| 2 | [Text editor VS IDE ](class-1.md)  |<br>
 | 3 | [Growth Mindset](class-2.md)       |
 | 4 | [Markdown](Markdown.md)            |
 | 5 | [Remotes](Remotes.md)              |
