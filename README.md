@@ -7,8 +7,7 @@ My laptop's os  is widows 10 ,version  19041.804.<br>
 I am a frontend developer and I ❤ design very much.<br>
 Here is my GitHub URL PLS **FOLLOW** me:<br>
 [my GitHub URL linke](https://github.com/RawanAlakhras)<br>
-
->This page about what   I have learned and read in Code 102 and 201 .
+This page about what   I have learned and read in Code 102 and 201 .
 # Code 102 Reading Notes
 
 | # | Code 102 Reading Notes             |
