@@ -30,7 +30,7 @@ This page about what   I have learned and read in Code 102 and 201 .
 | 2 | [Basics of HTML, CSS & JS](class-02.md)    |
 | 3 | [HTML Lists,Control Flow js,box css](class-03.md) |
 | 4 | [Links & layout ,function js](class-04.md)        |
-| 5 |                                    |
+| 5 | [Images & color & Text](class-05.md)        |
 | 6 |                                    |
 | 7 |                                    |
 | 8 |                                    |
