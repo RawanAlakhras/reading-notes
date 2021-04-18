@@ -31,7 +31,7 @@ This page about what   I have learned and read in Code 102 and 201 .
 | 3 | [HTML Lists,Control Flow js,box css](class-03.md) |
 | 4 | [Links & layout ,function js](class-04.md)        |
 | 5 | [Images & color & Text](class-05.md)        |
-| 6 |                                    |
+| 6 | [DOM](class-06.md)                 |
 | 7 |                                    |
 | 8 |                                    |
 | 9 |                                    |
