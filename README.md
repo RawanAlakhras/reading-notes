@@ -33,7 +33,7 @@ This page about what   I have learned and read in Code 102 and 201 .
 | 5 | [Images & color & Text](class-05.md)        |
 | 6 | [DOM](class-06.md)                 |
 | 7 | [Tables,Functions, Methods& Objects](class-07.md)                    |
-| 8 |                                    |
+| 8 | [Layout](class-08.md)                                 |
 | 9 |                                    |
 | 10 |                                    |
 | 11 |                                    |
