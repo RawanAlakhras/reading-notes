@@ -8,7 +8,7 @@ I am a frontend developer and I ❤ design very much.<br>
 Here is my GitHub URL PLS **FOLLOW** me:<br>
 [my GitHub URL linke](https://github.com/RawanAlakhras)<br>
 This page about what   I have learned and read in Code 102 and 201 .
-# Code 102 Reading Notes
+## Code 102 - Intro to Software Development
 
 | # | Code 102 Reading Notes             |
 | --| ---------------------------------  |
@@ -22,7 +22,7 @@ This page about what   I have learned and read in Code 102 and 201 .
 | 8 | [Operators and Loops](OperatorsandLoops.md)|
 | 9 | [color in css](color.md)|
 
-# Code 201 Reading Notes
+## Code 201 - Foundations of Software Development
 
 | #  | Code 201 Reading Notes             |
 | ---| ---------------------------------- |
@@ -40,5 +40,9 @@ This page about what   I have learned and read in Code 102 and 201 .
 | 12 | [Chart.js API](class-12.md)        |
 | 13 | [local storge](class-13.md)        |
 | 14a | [CSS Transforms, Transitions, and Animations](class-14a.md)                    |
-| 14b | [to Build the Perfect Team](class-14b.md)                                |
+| 14b | [to Build the Perfect Team](class-14b.md)   
+
+## Code 301 - Intermediate Software Development
+
+## Code 401 - Advanced Software Development                             |
 
