@@ -44,5 +44,24 @@ This page about what   I have learned and read in Code 102 and 201 .
 
 ## Code 301 - Intermediate Software Development
 
-## Code 401 - Advanced Software Development                             |
+
+| #  | Code 301 Reading Notes             |
+| ---| ---------------------------------- |
+| 1 |  |
+| 2 |  |
+| 3 |[Passing Functions as Props](code-301/class-03.md)  |
+| 4 |        |
+| 5 |       |
+| 6 |        |
+| 7 |                    |
+| 8 |                      |
+| 9 |                  |
+| 10 |   |
+| 11 |    |
+| 12 |  |
+| 13 |    |
+| 14a |                    |
+| 14b |                    |
+
+## Code 401 - Advanced Software Development                           
 
