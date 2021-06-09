@@ -47,11 +47,11 @@ This page about what   I have learned and read in Code 102 and 201 .
 
 | #  | Code 301 Reading Notes             |
 | ---| ---------------------------------- |
-| 1 |  |
+| 1 |[Introduction to React](code-301/class-01.md)  |
 | 2 |  |
 | 3 |[Passing Functions as Props](code-301/class-03.md)  |
 | 4 |[form](code-301/class-04.md)     |
-| 5 |[Introduction to React](code-301/class-01.md)      |
+| 5 |      |
 | 6 |        |
 | 7 |                    |
 | 8 |                      |
