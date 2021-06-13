@@ -53,7 +53,7 @@ This page about what   I have learned and read in Code 102 and 201 .
 | 4 |[form](code-301/class-04.md)     |
 | 5 |[Putting it all together](code-301/class-05.md)    |
 | 6 |        |
-| 7 |                    |
+| 7 |[REST](code-301/class-07.md)                    |
 | 8 |                      |
 | 9 |                  |
 | 10 |   |
