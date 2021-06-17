@@ -11,6 +11,7 @@
   * Random number generator also can't be pure .
   * mutability is discouraged in functional programming .
   * A function that edits data or causes changes on global variable is impure to fix that don't change the variable just return the value .
+
 ## What is Immutability?
 
 * The second thing functional programming is about is Immutability,When data is Immutable the state of data will not change, instead we will create a new object of it containing the new data ,To handle the iteration muatbility we use recursion which will call a function and the function will call it self several times .
