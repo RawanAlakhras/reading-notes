@@ -54,7 +54,7 @@ This page about what   I have learned and read in Code 102 and 201 .
 | 5 |[Putting it all together](code-301/class-05.md)    |
 | 6 |[NODE.JS](code-301/class-06.md)        |
 | 7 |[REST](code-301/class-07.md)                    |
-| 8 |                      |
+| 8 |[APIs](code-301/class-08.md)                      |
 | 9 |                  |
 | 10 |   |
 | 11 |    |
