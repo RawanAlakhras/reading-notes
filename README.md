@@ -52,7 +52,7 @@ This page about what   I have learned and read in Code 102 and 201 .
 | 3 |[Passing Functions as Props](code-301/class-03.md)  |
 | 4 |[form](code-301/class-04.md)     |
 | 5 |[Putting it all together](code-301/class-05.md)    |
-| 6 |        |
+| 6 |[NODE.JS](code-301/class-06.md)        |
 | 7 |[REST](code-301/class-07.md)                    |
 | 8 |                      |
 | 9 |                  |
