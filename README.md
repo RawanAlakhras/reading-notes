@@ -55,7 +55,7 @@ This page about what   I have learned and read in Code 102 and 201 .
 | 6 |[NODE.JS](code-301/class-06.md)        |
 | 7 |[REST](code-301/class-07.md)                    |
 | 8 |[APIs](code-301/class-08.md)                      |
-| 9 |                  |
+| 9 |[FUNCTIONAL PROGRAMMING](code-301/class-09.md)  |
 | 10 |   |
 | 11 |    |
 | 12 |  |
