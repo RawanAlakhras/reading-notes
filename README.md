@@ -57,7 +57,7 @@ This page about what   I have learned and read in Code 102 and 201 .
 | 8 |[APIs](code-301/class-08.md)                      |
 | 9 |[FUNCTIONAL PROGRAMMING](code-301/class-09.md)  |
 | 10 |[In memory storage](code-301/class-10.md)   |
-| 11 |    |
+| 11 |[Authentication](code-301/class-11.md)    |
 | 12 |  |
 | 13 |    |
 | 14a |                    |
