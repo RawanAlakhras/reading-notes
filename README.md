@@ -59,7 +59,7 @@ This page about what   I have learned and read in Code 102 and 201 .
 | 10 |[In memory storage](code-301/class-10.md)   |
 | 11 |[Authentication](code-301/class-11.md)    |
 | 12 |[Mongo and Mongoose](code-301/class-12.md)  |
-| 13 |    |
+| 13 | [CRUD](code-301/class-13.md)    |
 | 14a |                    |
 | 14b |                    |
 
