@@ -7,7 +7,7 @@ My laptop's os  is widows 10 ,version  19041.804.<br>
 I am a frontend developer and I ❤ design very much.<br>
 Here is my GitHub URL PLS **FOLLOW** me:<br>
 [my GitHub URL linke](https://github.com/RawanAlakhras)<br>
-This page about what   I have learned and read in Code 102 and 201 .
+This page about what   I have learned and read in Code 102, 201,301 and 401 .
 ## Code 102 - Intro to Software Development
 
 | # | Code 102 Reading Notes             |
@@ -68,7 +68,7 @@ This page about what   I have learned and read in Code 102 and 201 .
 
 | #  | Code 401 Reading Notes             |
 | ---| ---------------------------------- |
-| 1 | |
+| 1 |[Java Basics](code-401/class-01.md) |
 | 2 | |
 | 3 |  |
 | 4 |   |
