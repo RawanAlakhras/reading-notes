@@ -69,7 +69,7 @@ This page about what   I have learned and read in Code 102, 201,301 and 401 .
 | #  | Code 401 Reading Notes             |
 | ---| ---------------------------------- |
 | 1 |[Java Basics](code-401/class-01.md) |
-| 2 | |
+| 2 |[Arrays,Loops,Imports](code-401/class-02.md) |
 | 3 |  |
 | 4 |   |
 | 5 |  |
