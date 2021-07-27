@@ -70,7 +70,7 @@ This page about what   I have learned and read in Code 102, 201,301 and 401 .
 | ---| ---------------------------------- |
 | 1 |[Java Basics](code-401/class-01.md) |
 | 2 |[Arrays,Loops,Imports](code-401/class-02.md) |
-| 3 |  |
+| 3 |[Maps, primitives, File I/O](code-401/class-03.md)  |
 | 4 |   |
 | 5 |  |
 | 6 |   |
