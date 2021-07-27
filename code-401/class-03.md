@@ -81,3 +81,8 @@
   1. The first kind of exception is the checked exception. These are exceptional conditions that a well-written application should anticipate and recover from.
   2. The second kind of exception is the error. These are exceptional conditions that are external to the application, and that the application usually cannot anticipate or recover from.
   3. The third kind of exception is the runtime exception. These are exceptional conditions that are internal to the application, and that the application usually cannot anticipate or recover from. 
+
+# Scanning
+
+* Objects of type Scanner are useful for breaking down formatted input into tokens and translating individual tokens according to their data type.
+* 
