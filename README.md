@@ -72,7 +72,7 @@ This page about what   I have learned and read in Code 102, 201,301 and 401 .
 | 2 |[Arrays,Loops,Imports](code-401/class-02.md) |
 | 3 |[Maps, primitives, File I/O](code-401/class-03.md)  |
 | 4 | [OOP](code-401/class-04.md)|
-| 5 |  |
+| 5 | [Linked Lists](code-401/class-05.md)  |
 | 6 |   |
 | 7 |  |
 | 8 | |
