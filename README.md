@@ -75,12 +75,12 @@ This page about what   I have learned and read in Code 102, 201,301 and 401 .
 | 5 | [Linked Lists](code-401/class-05.md)  |
 | 6 | [Inheritance and Interfaces](code-401/class-06.md)  |
 | 7 | [ OO Design](code-401/class-07.md) |
-| 8 | |
-| 9 |  |
-| 10 | |
-| 11 |  |
-| 12 | |
-| 13 |     |
+| 9 | [ WRRC and Java](code-401/class-09.md)|
+| 10 |  |
+| 11 | |
+| 12 |  |
+| 13 | |
+| 14 |     |
 | 15 |                 |
 
 
