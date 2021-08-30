@@ -87,5 +87,6 @@ This page about what   I have learned and read in Code 102, 201,301 and 401 .
 | 19 |[Spring and Sockets](code-401/class-19.md)    |
 | 26 |[Android Fundamentals](code-401/class-26.md)    |
 | 27 |[Intents, Activities, and SharedPreferences](code-401/class-27.md)    |
+| 28 |[RecyclerView](code-401/class-28.md)    |
 
 
