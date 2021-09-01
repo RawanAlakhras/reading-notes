@@ -89,5 +89,6 @@ This page about what   I have learned and read in Code 102, 201,301 and 401 .
 | 27 |[Intents, Activities, and SharedPreferences](code-401/class-27.md)    |
 | 28 |[RecyclerView](code-401/class-28.md)    |
 | 29 |[Room](code-401/class-29.md)    |
+| 30 |[Hash Tables](code-401/class-30.md)    |
 
 
