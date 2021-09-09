@@ -92,6 +92,7 @@ This page about what   I have learned and read in Code 102, 201,301 and 401 .
 | 30 |[Hash Tables](code-401/class-30.md)    |
 | 31 |[Espresso](code-401/class-31.md)    |
 | 32 |[Serverless and Amplify](code-401/class-32.md)    |
-| 32 |[GraphQL @connection](code-401/class-33.md)    |
+| 33 |[GraphQL @connection](code-401/class-33.md)    |
+| 34 |[Monetization](code-401/class-34.md)    |
 
 
