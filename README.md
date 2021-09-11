@@ -94,5 +94,7 @@ This page about what   I have learned and read in Code 102, 201,301 and 401 .
 | 32 |[Serverless and Amplify](code-401/class-32.md)    |
 | 33 |[GraphQL @connection](code-401/class-33.md)    |
 | 34 |[Monetization](code-401/class-34.md)    |
+| 35 |[Graphs](code-401/class-35.md)    |
+| 36 |[Cognito](code-401/class-36.md)    |
 
 
