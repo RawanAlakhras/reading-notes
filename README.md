@@ -97,5 +97,7 @@ This page about what   I have learned and read in Code 102, 201,301 and 401 .
 | 35 |[Graphs](code-401/class-35.md)    |
 | 36 |[Cognito](code-401/class-36.md)    |
 | 37 |[s3](code-401/class-37.md)    |
+| 39 |[Kinesis](code-401/class-39.md)    |
+| 42 |[Location](code-401/class-42.md)    |
 
 
