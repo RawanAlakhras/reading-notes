@@ -99,5 +99,6 @@ This page about what   I have learned and read in Code 102, 201,301 and 401 .
 | 37 |[s3](code-401/class-37.md)    |
 | 39 |[Kinesis](code-401/class-39.md)    |
 | 42 |[Location](code-401/class-42.md)    |
+| 43 |[Kinesis & Analytics](code-401/class-43.md)    |
 
 
